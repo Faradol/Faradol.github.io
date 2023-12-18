@@ -87,7 +87,8 @@ h5 {
     background-position: right;
     background-repeat: no-repeat;
     height: 250px;
-    width: 500px;
+    width: 80%;
+    max-width: 500px;
     margin: 4px;
 }
 
