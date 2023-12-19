@@ -50,6 +50,7 @@ p {
     text-align: left;
     margin-left: -30px;
     list-style-type: "-";
+    font-size: 20px;
 }
 
 .Ingrediënten {
@@ -59,7 +60,8 @@ p {
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 5px;
-    font-size: 22px;
+    text-align: left;
+    font-size: 20px;
 }
 
 h3 {
